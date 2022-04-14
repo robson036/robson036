@@ -36,6 +36,7 @@
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Blockchain-6C38FF?style=for-the-badge&logoColor=white">&nbsp;&nbsp;  
 &nbsp;&nbsp;
 </p>
 
