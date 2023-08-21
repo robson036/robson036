@@ -41,7 +41,7 @@
 </p>
 
 🤓 A curious programmer, lover of technology and innovation. <br>
-🔭 Working on [Lunes Blockchain](https://github.com/Lunes-platform/) <br>
+🔭 Working on [ExtractoDAO](https://extractodao.com/) <br>
 🌱 Currently learning Python <br>
 
 <!--
