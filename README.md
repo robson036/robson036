@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
- <img src="https://img.shields.io/badge/Lunes-DEV-6C38FF.svg?style=for-the-badge&&logoColor=white" />
+ <img src="https://img.shields.io/badge/ExtractoDAO-F9712B.svg?style=for-the-badge&&logoColor=white" />
 </p>
 
 <p align='center'>
