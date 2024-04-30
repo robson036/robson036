@@ -41,7 +41,7 @@
 </p>
 
 🤓 A curious programmer, lover of technology and innovation. <br>
-🔭 Working on [ExtractoDAO](https://extractodao.com/) <br>
+🔭 Working on [SyncCRM](https://painel.synccrm.com.br/login) <br>
 🌱 Currently learning Python <br>
 
 <!--
