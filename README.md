@@ -6,10 +6,6 @@
   Full Stack Developer - São Paulo - Brazil
 </p>
 
-<p align="center">
- <img src="https://img.shields.io/badge/ExtractoDAO-F9712B.svg?style=for-the-badge&&logoColor=white" />
-</p>
-
 <p align='center'>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/robson-miranda-0372a0197/" target="_blank">
