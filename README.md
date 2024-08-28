@@ -38,7 +38,7 @@
 
 🤓 A curious programmer, lover of technology and innovation. <br>
 🔭 Working on [SyncCRM](https://painel.synccrm.com.br/login) <br>
-🌱 Currently learning Python <br>
+🌱 I am currently learning Java <br>
 
 <!--
 **robson036/robson036** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
