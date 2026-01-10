@@ -11,9 +11,6 @@
 <a href="https://www.linkedin.com/in/robson-miranda-0372a0197/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/robsonmsa/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>&nbsp;&nbsp;
 
 </p>
 
@@ -38,7 +35,7 @@
 
 🤓 A curious programmer, lover of technology and innovation. <br>
 🔭 Working on [SyncCRM](https://painel.synccrm.com.br/login) <br>
-🌱 I am currently learning Java <br>
+🌱 I am currently learning C <br>
 
 <!--
 **robson036/robson036** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
